@@ -5,9 +5,9 @@ instructions:
   - Update Contact Information and other content to match the practices of your project
   - Delete YAML frontmatter when you are good to go
 ---
-# [Project Name] Governance
+# Morphia Governance
 
-This document outlines the governance model for [Project Name].
+This document outlines the governance model for Morphia.
 This governance model is designed to uphold the principles of transparency, open collaboration, and community involvement.
 
 [cfc]: https://www.commonhaus.org/bylaws/cf-council.html
@@ -45,7 +45,7 @@ All participants in the project are expected to adhere to the project's [Code of
 
 ## Trademark Policy
 
-The [Project Name] logos, icons, and domain names are protected by trademark rights. Usage of these trademarks must adhere to our [Trademark Policy][ctp].
+The Morphia logos, icons, and domain names are protected by trademark rights. Usage of these trademarks must adhere to our [Trademark Policy][ctp].
 
 ## Contributing
 
