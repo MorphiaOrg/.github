@@ -4,7 +4,7 @@ We are committed to making participation in this foundation a harassment-free ex
 
 ## Morphia Contact information
 
-- To report an issue, CoC reports should be sent to `report@PROJECT-mailing-list`. We will follow [CF CoC procedures][coc-reports] when handling CoC reports.
+- To report an issue, CoC reports should be sent to `project-morphia@commonhaus.org`. We will follow [CF CoC procedures][coc-reports] when handling CoC reports.
 - To [escalate an issue][coc-escalation], reports should be sent to the [`coc-escalation` mailing list][CONTACTS.yaml] for review by the [Code of Conduct Panel (COCP)][cocp].
 
 [cocp]: https://www.commonhaus.org/policies/code-of-conduct/#code-of-conduct-panel "Code of Conduct Panel"
