@@ -1,10 +1,3 @@
----
-status: template
-instructions:
-  - Replace [Project Name]
-  - Update Contact Information and other content to match the practices of your project
-  - Delete YAML frontmatter when you are good to go
----
 # Morphia Governance
 
 This document outlines the governance model for Morphia.
